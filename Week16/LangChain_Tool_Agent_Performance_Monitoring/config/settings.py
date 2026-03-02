@@ -10,8 +10,8 @@ load_dotenv()
 
 # --- OpenAI API Key ---
 # Ensure it is in your .env
-if not os.getenv("OPENAI_API_KEY"):
-    pass # Might rely on system env or be optional if using local specific models
+# if not os.getenv("OPENAI_API_KEY"):
+#     pass # Might rely on system env or be optional if using local specific models
 
 # --- LangSmith Tracing Settings ---
 # These should come from .env
