@@ -39,7 +39,7 @@ Thinking → Deciding → Acting → Learning → Safeguarding
 4. OpenSource Libraries -  If any
 5. LLM - Paid vs OpenSource
 
-# Agentic Design Approach
+# Agentic Design Pattern
 1. Planner Executor Architecture
 2. Sequential Thinking Architecture
 3. Hierarchical Architecture
